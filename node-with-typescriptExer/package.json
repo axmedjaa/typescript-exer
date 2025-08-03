@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "dev": "ts-node-dev src/exercise11/index.ts",
+    "dev": "ts-node-dev src/exercise12/index.ts",
     "build": "tsc",
     "start": "node dist/index.js"
   },
