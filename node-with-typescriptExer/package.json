@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "dev": "ts-node-dev src/exercise12/index.ts",
+    "dev": "ts-node-dev src/exercise13/index.ts",
     "build": "tsc",
     "start": "node dist/index.js"
   },
@@ -17,6 +17,7 @@
     "typescript": "^5.9.2"
   },
   "dependencies": {
-    "express": "^5.1.0"
+    "express": "^5.1.0",
+    "mongoose": "^8.17.0"
   }
 }
